@@ -1,5 +1,5 @@
 # Dawid Mazurek - homepage
-![Dawid Mazurek](/image/DawidMazurek.jpg)
+![Dawid Mazurek](images/DawidMazurek.jpg)
 
 ## My first page
 
