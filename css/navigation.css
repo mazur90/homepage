@@ -1,0 +1,28 @@
+.navigation {
+    background-color: #e9d8c2;
+    text-align: center;
+    margin: 10px;
+    overflow-x: auto;
+    border-radius: 20px;
+    box-shadow: #dfcaca 0px 0px 20px;
+}
+
+.navigation__list {
+    list-style: none;
+    padding-left: 0px;
+    font-weight: 700;
+}
+
+.navigation__item {
+    display: inline-block;
+    padding-inline-start: 30px;
+}
+
+.navigation__link {
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    box-shadow: #c18f8f 20px 20px 20px;
+    text-decoration: none;
+}

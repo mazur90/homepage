@@ -1,0 +1,19 @@
+.article {
+    background-color: #e9d8c2;
+    text-align: center;
+    margin: 10px;
+    overflow-x: auto;
+    border-radius: 20px;
+    box-shadow: #dfcaca 0px 0px 20px;
+}
+
+.article__header {
+    color: #f40a0a;
+    background-color: #deb887;
+    text-align: center;
+    text-shadow: #c18f8f 20px 20px 20px;
+}
+
+.article__paragraph {
+    padding: 20px;
+}
