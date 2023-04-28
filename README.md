@@ -11,6 +11,7 @@ The page contains a short description of me. You can see my programming progress
 - Normalize
 - Markdown
 - GIT
+- Flex
 
 ## Demo
 https://mazur90.github.io/homepage/
